@@ -6,6 +6,7 @@
   *
   * Return: void
   */
+
 void rev_string(char *s)
 {
 	int i, c, k;
@@ -13,7 +14,7 @@ void rev_string(char *s)
 
 	a = s;
 
-	while (s[c] !='\0')
+	while (s[c] != '\0')
 	{
 		c++;
 	}
