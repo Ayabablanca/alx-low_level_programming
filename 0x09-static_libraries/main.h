@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> a34f48a28f12f78b489c56e3eb27a27df9eb41b1
 #ifndef MAIN_READER_FILE
 #define MAIN_READER_FILE
 
@@ -24,3 +27,8 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
 #endif
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> a34f48a28f12f78b489c56e3eb27a27df9eb41b1

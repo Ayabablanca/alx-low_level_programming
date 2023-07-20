@@ -41,6 +41,7 @@ void print_name_uppercase(char *name)
 /**
  * main - check the code
  *
+<<<<<<< HEAD
  * Return: Always 0.
  */
 int main(void)
@@ -50,3 +51,6 @@ int main(void)
     printf("\n");
     return (0);
 }
+=======
+
+>>>>>>> a34f48a28f12f78b489c56e3eb27a27df9eb41b1
