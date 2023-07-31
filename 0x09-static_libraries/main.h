@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> a34f48a28f12f78b489c56e3eb27a27df9eb41b1
-#ifndef MAIN_READER_FILE
-#define MAIN_READER_FILE
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char c);
 int _islower(int c);
@@ -27,8 +23,4 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
 #endif
-<<<<<<< HEAD
-=======
 
-
->>>>>>> a34f48a28f12f78b489c56e3eb27a27df9eb41b1
