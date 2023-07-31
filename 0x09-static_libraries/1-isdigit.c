@@ -10,7 +10,3 @@ int _isdigit(int c)
 	return (c >= '0' && c <= '9');
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a34f48a28f12f78b489c56e3eb27a27df9eb41b1
